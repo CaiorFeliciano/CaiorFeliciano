@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CaiorFeliciano?tab=repositories](https://github.com/CaiorFeliciano?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about anything.
 
 - 📫 How to reach me **caiorfeliciano@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/caio-feliciano-898767234/](https://www.linkedin.com/in/caio-feliciano-898767234/)
+- 📄 Know about my experiences LinkedIn (https://www.linkedin.com/in/caio-feliciano-898767234/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
