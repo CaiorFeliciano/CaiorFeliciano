@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Caio Feliciano</h1>
 <h3 align="center">Front End Developer | HTML | CSS | JavaScript</h3>
 
-- 🌱 I’m currently looking for my first opportunity in the field of development, where i can grow up and develop my skills in **HTML, CSS, JavaScript.**
+<p align ="center">Hello, I'm Caio, and I'm currently seeking a career change, transitioning into the field of programming, specifically in Front-End development.
 
-- 👨‍💻 All of my projects are available at [https://github.com/CaiorFeliciano?tab=repositories](https://github.com/CaiorFeliciano?tab=repositories)
+I have experience in HTML, CSS, JavaScript, and React, having worked collaboratively in teams with effective communication and positive relationships with colleagues, while also meeting defined delivery deadlines proficiently.
 
-- 💬 Ask me about anything.
+Currently, I am pursuing my first opportunity in the development field where I can apply my knowledge and enhance my skills through practical experiences.</p>
 
-- 📫 How to reach me **caiorfeliciano@gmail.com**
-
-- 📄 Know about my experiences in LinkedIn (https://www.linkedin.com/in/caio-feliciano/)
+Know about my experiences in LinkedIn (https://www.linkedin.com/in/caio-feliciano/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +16,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
+<p align="left"> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiorfeliciano&show_icons=true&locale=en&layout=compact" alt="caiorfeliciano" /></p>
 
