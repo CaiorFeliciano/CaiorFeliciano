@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Feliciano</h1>
 <h3 align="center">Front End Developer | HTML | CSS | JavaScript</h3>
 
-<p align ="center">Hello, I'm Caio, and I'm currently seeking a career change, transitioning into the field of programming, specifically in Front-End development.
+<p>Hello, I'm Caio, and I'm currently seeking a career change, transitioning into the field of programming, specifically in Front-End development.
 
 I have experience in HTML, CSS, JavaScript, and React, having worked collaboratively in teams with effective communication and positive relationships with colleagues, while also meeting defined delivery deadlines proficiently.
 
