@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Feliciano</h1>
-<h3 align="center">Front End Developer | HTML | CSS | JavaScript</h3>
+<h3 align="center">Front End Developer | HTML | CSS | Javascript | Typescript | React </h3>
 
 <p>Hello, I'm Caio, and I'm currently seeking a career change, transitioning into the field of programming, specifically in Front-End development.
 
